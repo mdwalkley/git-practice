@@ -1,3 +1,6 @@
 Why is git so cumbersome?
-
 Working on the master some more.
+I'm starting to learn.
+
+Easy Mode initialized.
+
