@@ -1,3 +1,5 @@
 Why is git so cumbersome?
 
 I'm starting to learn.
+
+Easy Mode initialized.
